@@ -1,4 +1,3 @@
 # Driver-drowsiness-detection
-With new Neural Network like GANs,
-we can create a model of complex neural nets that can help in solving this problem. Using Generative Adversarial Networks,
-Images can be deblurred with significant improvement in quality
+This is a project implementing Computer Vision and Deep Learning concepts to detect drowsiness of a driver .
+Facial landmarks on the detected face are pointed and subsequently the eye aspect ratio, mouth opening ratio and nose length ratio are computed and depending on their values, drowsiness is detected based on developed adaptive thresholding.
